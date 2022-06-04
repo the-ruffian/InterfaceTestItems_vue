@@ -1,0 +1,57 @@
+.register_form {
+  margin-top: 15%;
+  margin-left: 40%;
+}
+
+.register_fa {
+  width: 100%;
+  height: 100%;
+}
+
+.div {
+  width: 100%;
+  height: 100%;
+}
+
+.topNV {
+  height: 1%;
+  background-color: antiquewhite;
+  text-align: center;
+}
+
+a {
+  color: limegreen;
+  vertical-align: sub;
+}
+
+.left {
+  float: left;
+}
+
+.right {
+  float: right;
+}
+
+.loginForm {
+  width: 480px;
+  margin-left: 40%;
+}
+
+.el_col {
+  position: absolute;
+}
+
+.login_btn {
+  margin-right: 10%;
+}
+
+.right_btn {
+  float: right;
+  margin-right: 20px;
+}
+
+.input {
+  width: 75px;
+}
+
+/*# sourceMappingURL=base.css.map */
