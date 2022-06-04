@@ -28,7 +28,7 @@ service.interceptors.request.use(
 
 service.interceptors.response.use(
     function (response:any){
-        if (!response.data.state){
+        if (response.data.state){
             localStorage.clear()
             location.replace('/')
         }else {
