@@ -3,6 +3,7 @@ import router from './router'
 import Antd from 'ant-design-vue'
 import 'ant-design-vue/dist/antd.css'
 import regular_check from "./common/regular_check";
+import './assets/css/base.css'
 // @ts-ignore
 import App from './App.vue'
 
